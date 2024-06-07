@@ -46,6 +46,9 @@ input[type='text'],input[type='email'],input[type='number'], textarea, select{
   color: rgb(200,0,0);
 }
 
+textarea{
+  width: 100%;
+}
 
 input[type='radio']:checked{
   font-family: 'Times New Roman', serif;
